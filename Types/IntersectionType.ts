@@ -1,0 +1,1 @@
+type locationTwo = {x: number} & {y: number};
